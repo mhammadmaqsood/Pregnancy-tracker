@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905128617701",
+    "firebase_url": "https://calender-6e403.firebaseio.com",
+    "project_id": "calender-6e403",
+    "storage_bucket": "calender-6e403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905128617701:android:4083ac7bfc066535ca560c",
+        "android_client_info": {
+          "package_name": "com.my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905128617701-uv7h6c3fo34bdjokaq70r46hkq6252lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2-HRSzM3UYO29uBnTqxYy37jEU39B9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905128617701-uv7h6c3fo34bdjokaq70r46hkq6252lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
